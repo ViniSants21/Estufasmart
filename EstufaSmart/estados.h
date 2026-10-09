@@ -1,0 +1,2 @@
+#pragma once
+enum Estado {NORMAL, ATENCAO, CRITICO, RECONHECIDO, FALHA_SENSOR};
